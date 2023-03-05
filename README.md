@@ -5,7 +5,7 @@
 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yibe%20Melak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yibe-m-b245841b8/)](https://www.linkedin.com/in/yibe-m-b245841b8/)
-[![Medium Badge](https://img.shields.io/badge/Yibe%20Melak-12100E?style=flat-square&logo=medium&logoColor=white&link=(https://medium.com/@yibe.mel27)/)][(https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://medium.com/@yibe.mel27)
+[![Medium Badge](https://img.shields.io/badge/Yibe%20Melak-12100E?style=flat-square&logo=medium&logoColor=white&link=(https://medium.com/@yibe.mel27)/)](https://medium.com/@yibe.mel27)
 [![Gmail Badge](https://img.shields.io/badge/-yibe.mel27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yibe.mel27@gmail.com)](mailto:yibe.mel27@gmail.com)
 
 ## ⚡ Technologies
